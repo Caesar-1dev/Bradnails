@@ -1,19 +1,30 @@
 ![](header.png?raw=true)
-## 2022 UPDATE
-- The 2022 Update is out!
- 
- [![Watch the video](https://img.youtube.com/vi/LrZByysJ-44/maxresdefault.jpg)](https://youtu.be/LrZByysJ-44)
+## New update coming soon
+Planned additions
+**This stuff isn't guaranteed!!! Just on our plans n shit**
+- PlayStation 1 and 2 emulation + ROMs
+- Dragon Ball FighterZ 
+- Megaman Legacy Collection
+- Hades
+- Stardew Valley
+- Shawshank Redemption
+- Sonic Robo Blast 2
+- Super Metroid
+- Metroid Prime
+- NEWGROUNDS Flash Player
+- Other movie stuff idfk 
 
+#### Check our [patch notes](https://github.com/Project-Bradnails/Bradnails/blob/main/PATCHNOTES.md) to see what is added in each update.
+
+#### Join our [Discord](https://discord.gg/tAfDFVMpnB) to get the latest updates and news before everyone else, and get specific answers to your questions or issues.
 
 
 ## Info
-### **It's not our fault if you do stupid shit. Be careful.**
-### **If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: please stop. While you may think, Bradnails will get removed if it becomes too popular, we have a contingency plan if this happens. We ask you to spread this as much as possible as that was our original intent. If we made this for select people, we would have kept it private. Thank you for your understanding.**
+### **It's not our fault if you do stupid shit. Be careful. If you gatekeep Bradnails, you are wasting our efforts. This is for everyone. To the gatekeepers: please stop. While you may think, Bradnails will get removed if it becomes too popular, we have a contingency plan if this happens. We ask you to spread this as much as possible as that was our original intent. If we made this for select people, we would have kept it private. Thank you for your understanding.**
 
-*Just so you know, we can't add everything. Not everything runs on a school computer.*
 
 ### This repository is the definitive archive for unblocked school content. You can find games, movies, apps and more, all on the [Games List](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/softwarelist.md) page.
-This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee.
+This is mainly made for Windows 10 and above machines. Stuff like a Chromebook we can't guarantee. Just so you know, we can't add everything. Not everything runs on a school computer.
 
 ## Installation
 1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/softwarelist.md)
@@ -30,9 +41,9 @@ This is mainly made for Windows 10 and above machines. Stuff like a Chromebook w
 3. Add your ROM to a ROMs folder
 4. Disable your internet
 5. Open the emulator
-6a. Set the Games path to your ROMs folder
-6b. For Retroarch, you can also load your game by clicking File>Load Content and clicking on your game file
-7. Click on the game's icon or click run
+6. Set the Games path to your ROMs folder
+7. For Retroarch, you can also load your game by clicking File>Load Content and clicking on your game file
+8. Click on the game's icon or click run
 
 ## Tips
 - We VERY heavily recommend to always run your games when you have disconnected your internet. This can save both you and us a lot of issues later down the road.
@@ -44,7 +55,7 @@ new desktop button. This way if staff is trying to check your computer, they lik
 ## FAQ
 - *Is this a virus or a scam?*
 
-Nope, don't worry. Our team of 5 checks everything to make sure it's functional before uploading to the software list.
+Nope, don't worry. Our team of 6 checks everything to make sure it's functional before uploading to the software list.
 
 - *Where is the Google drive?*
 
@@ -90,7 +101,7 @@ Clear your recycling bin.
 
 If you want to save game progress, you can keep your saves on a flash drive or separate computer.
 
-If you want to take an extra step in being safe, delete both your web hisotry and your downloaded file history.
+If you want to take an extra step in being safe, delete both your web history and your downloaded file history.
 
 ## About The Devs
 #### KushKonsumer
@@ -101,3 +112,7 @@ If you want to take an extra step in being safe, delete both your web hisotry an
 - As the name doesn't state, they enjoy the outdoors and seeing the world. That about all there is to them.
 #### Rev2 
 - Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
+#### MunchieMasher
+- As the name states, enjoys mashing massive ammounts of munchies. In their free time, they like gaming and mashing munchies.
+#### Caesar
+- Caeser

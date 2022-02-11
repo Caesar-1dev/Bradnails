@@ -1,27 +1,29 @@
 ## For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
 
+#### Report bugs and issues or request games in our [Discord](https://discord.gg/tAfDFVMpnB)
+
 # GAMES
-Note: We are still working on a way to make Terraria function properly. It is currenty unable to read the Microsoft XNA .dll files and we are working on a fix for that.
-- [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+
+- [Friday Night Funkin' - Psych Engine](https://drive.google.com/file/d/1vsMbJPVten8zBhOdeVr-YyOaBLVD0Eh4/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#friday-night-funkin---psych-engine))
 - [Halo: Combat Evolved](https://drive.google.com/file/d/144eKVPvUoejd6174zX4Onux4YzHUxbTq/view?usp=sharing)
-- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1zT0A03CNI4MkArkZIQg_Xhp9SqlO_8qJ/view?usp=sharing)
-- [Geometry Dash](https://drive.google.com/file/d/1pi1jstxevRrkCO3rdd-3LpPvLPVei30g/view?usp=sharing)
+- [Halo 2](https://drive.google.com/file/d/1yu0hjRT_i3JdclnghVmw4Fy80GOp1zXq/view?usp=sharing)
+- [The Binding of Isaac Rebrith](https://drive.google.com/file/d/1Z0NeWqzUdfs-VhPYBSMY-uwaxy_Mo_WI/view?usp=sharing)
+- [Geometry Dash](https://drive.google.com/file/d/1a3Q05EnU0pvHYBmukQOIu3k8ltBc1M27/view?usp=sharing) (NOTE: Game is under Geometry_Dash/steamapps/common in the files)
 - [BTD 5](https://drive.google.com/file/d/19vInou1QofheKIz2ZCRvQOxeBu-elpeB/view?usp=sharing)
-- [BTD 6](https://drive.google.com/file/d/1i8jFcQ0SpODJOuzzORHDIhJZMgkeHgu3/view?usp=sharing)
 - [Hollow Knight](https://drive.google.com/drive/folders/1M6IbmNrMCjij9ky0sKP8TJZttRZZ6teJ)
 - [Plague Inc.](https://drive.google.com/file/d/1LwtqtCgmQTgTSMPQWhj9xYb_kENATHqj/view?usp=sharing)
-- [Doom II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
+- [DOOM II](https://drive.google.com/file/d/10BC4qo4vnYQtDbjXSPCEal-iROCE48Uy/view?usp=sharing)
 - [Enter The Gungeon](https://drive.google.com/file/d/1h9MJ5KCQCj-1zdT0djJ37Ijrhug9r1s3/view?usp=sharing)
 - [Tetris](https://drive.google.com/file/d/1I6v9nsqHhttABpsb7tQQPG8tWMv17TyA/view?usp=sharing)
 - [Sonic The Hedgehog](https://drive.google.com/file/d/1jg0jJyfP3ycxgtIy8bleOPeET9mhUc9y/view?usp=sharing)
 - [Sonic The Hedgehog 2](https://drive.google.com/file/d/1LyZ12blHovis2RMaHYCL2w8_3JxqR3rS/view?usp=sharing)
 - [Sonic The Hedgehog 3 & Knuckles](https://drive.google.com/file/d/1s8gCSphxGpyHcSQjUSX2eDKCdqjbwYml/view?usp=sharing)
 - [Sonic CD](https://drive.google.com/file/d/1vBPzTz_UYyUQWMvAVIvpOBQRqP0Sar1w/view?usp=sharing)
+- [Five Nights at Freddys 1](https://drive.google.com/file/d/1XHomPytyZiKGKOkli5ulu4FSthT6tiah/view?usp=sharing)
 - [Five Nights at Freddys 2](https://drive.google.com/file/d/1lCoKR7FY1Y7qRbzihi5j8wyaXlh3mujw/view?usp=sharing)
 - [Five Nights at Freddys 3](https://drive.google.com/file/d/0B31-NQeMvxfqSTFTcFNiY1J5VEE/view?usp=sharing)
 - [Five Nights at Freddys 4](https://drive.google.com/file/d/0B3UqtAb3iqEiUTd1Z3J4bV9vM1E/view?usp=sharing)
 - [Five Nights at Freddys: Sister Location](https://drive.google.com/file/d/1fe7lRYUed41rEim3aB_ml528_IwG11Pc/view?usp=sharing)
-- Super Mario 127 DEMO - Requires reupload
 - [Undertale](https://drive.google.com/file/d/1LC_fXXNNnBBFRujE5N-9Mltxjz19JKaR/view?usp=sharing)
 - [Undertale Bits N' Pieces Ver. 4.2.1](https://drive.google.com/file/d/1sAm960jzA2HDEMtUmriqz3Aw7hlnuW59/view?usp=sharing)
 - [Deltarune Chapters 1 & 2](https://drive.google.com/file/d/1yFsY7I5qujqRLUwz-xroA60xy-PVmOem/view?usp=sharing)
@@ -33,15 +35,28 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Slime Rancher](https://drive.google.com/file/d/15zTOFEBG-1TMpfbwbofr1Y_b8nkPBlYf/view?usp=sharing)
 - [SUPERHOT](https://drive.google.com/file/d/195hGHGuLyLxizpeZ0H5MtZkQoxAl0KrT/view?usp=sharing)
 - [Cave Story +](https://drive.google.com/file/d/1-81Ke1mpa13DiffAkkwJ4xop8olMleja/view?usp=sharing)
-- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't. We are looking into the issue.)
+- [Cuphead](https://drive.google.com/file/d/1K6Nvb6RGYWWmecyrIZF1cWflZT5y1yen/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#cuphead)) (ADDITIONAL NOTE: For some reason, it seems that some users are stuck on Cuphead's loading screen, yet some aren't.)
 - [Call of Duty 4: Modern Warfare](https://drive.google.com/file/d/1pOaV240JSgowOFFj_1rO74N3DcOT0F--/view?usp=sharing)
+- [Portal 2](https://drive.google.com/file/d/14vypq86t2V3gCMWotiqYYwwVyuVOfv8L/view?usp=sharing)
+- [Getting Over It With Bennet Foddy](https://drive.google.com/file/d/11Sd9z4Yr_KBoUDMmBInZMmLDtornfNpJ/view?usp=sharing)
+- [Rimworld](https://drive.google.com/file/d/1X-vZUvo_gaDIwbLD4ppBgkhHcwHX12tr/view?usp=sharing)
+- [The Elder Scrolls IV: Oblivion](https://drive.google.com/file/d/1adM1PzRz9z658VOxL3jT7E1ZuaAtiEa0/view?usp=sharing)
+- [DOOM 3](https://drive.google.com/file/d/1EpVN3AtsNk-sIMvnlIFs0q41ZwPOuCWA/view?usp=sharing)
+- [Mortal Kombat 3](https://drive.google.com/file/d/1SLrdYhoGBEpZ_6SZA9TS2tK_B1ZkAojO/view?usp=sharing)
+- [Dark Souls Remastered](https://drive.google.com/file/d/1dC7zDWJNTtUH9pKImzqW7feZ3CS6uxTw/view?usp=sharing)
+- [The Henry Stickmin Collection](https://drive.google.com/file/d/1ne97OWzZZBzOfxAzLHN1YgBA-cQip6-d/view?usp=sharing)
+- [Untitled Goose Game](https://drive.google.com/file/d/1kfLBjWWRkL2gflLLLy2bdryms1d78jnE/view?usp=sharing)
 
 # EMULATORS
 
-- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [RETROARCH](https://drive.google.com/file/d/1PE-NWR-Hh5hVm5a7EczxJcB3iaQPeFyB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#retroarch))
 - [Dolphin](https://drive.google.com/file/d/1Hxmd16dR-wYRvw8IXsXWecrewBZODBqJ/view?usp=sharing)
-- [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
 - [Project64](https://drive.google.com/file/d/1k9xiFuUoZAGM-_UZ4mKcIEC3W3rkjLez/view?usp=sharing)
+- [Redream](https://drive.google.com/file/d/17Hmk9F8mtJaR01Epnrj7ZquoFTl-Y_KK/view?usp=sharing)
+- [DuckStation](https://drive.google.com/file/d/1Pqx2rV6syekQkEl_GwRgXW6fOOf_tMZB/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#duckstation))
+- [PCSX2](https://drive.google.com/file/d/1ixdisLIWGhzFvbGEAjw8CS0i8xF3U7Xp/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#pcsx2))
+
+
 
 # ROMs
 ## Nintendo
@@ -65,9 +80,12 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Super Smash Bros Brawl](https://drive.google.com/file/d/1P4GnnSBFezrEBfRBAWD6QlSpum13Oz5d/view?usp=sharing)
 - [Lego Star Wars II](https://drive.google.com/file/d/1X1_UMTvhNXS0NTw1aP6O2s5xeO4JnECq/view?usp=sharing)
 - [Lego Star Wars III](https://drive.google.com/file/d/1JYebQhA1TsWPOcUEp7-Mq82rcKHZNTiV/view?usp=sharing)
+- [LEGO Star Wars: The Complete Saga](https://drive.google.com/file/d/1t0n02DzVtcJyZkQ_qH9HMx7iUhCV83D-/view?usp=sharing)
 - [Super Mario Galaxy](https://drive.google.com/file/d/1IWJwzpC0-i4K2uA59Wlc4tvmCiGEOX5L/view?usp=sharing)
 - [Animal Crossing: City Folk](https://drive.google.com/file/d/1mfn0oCOgJls_ZXJnFlIdtRsj1-G3p9IK/view?usp=sharing)
 - [Super Mario Sunshine](https://drive.google.com/file/d/120B4jN0yQhS0hMJIpCAs_rK8bhII4oD7/view?usp=sharing)
+- [Mario Kart Wii](https://drive.google.com/file/d/11xdaN6Ve-YmDN2g98FMvUz3PcHcA3nhB/view?usp=sharing)
+- [Wii Play](https://drive.google.com/file/d/1Nd78_si62Jn4RdlIAK3xA2Xtbo81G4u0/view?usp=sharing)
 
 ### Project64
 - [Super Mario 64](https://drive.google.com/file/d/1Dx_-AO6PHilb0_ls81jK3D1yLnGECiNF/view?usp=sharing)
@@ -82,11 +100,26 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [Street Fighter III: 3rd Strike](https://drive.google.com/file/d/1jo7wwmComdcDJnlSu6FkLkweMggrwXLl/view?usp=sharing)
 
 ## Sony
+### DuckStation
+- [Final Fantasy VII](https://drive.google.com/file/d/1sOf4Q3TP-e759wA6LyKMPDc86sYZl4mV/view?usp=sharing)
+- [Crash Bandicoot](https://drive.google.com/file/d/1EqXIy3jbtyQpQpVlSOVN2pBQu40EGRQT/view?usp=sharing)
+- [Castlevania: Symphony of the Night](https://drive.google.com/file/d/1GJhqmmygSHX30DEQfYRgLObyN_R46FQ4/view?usp=sharing)
+- [METAL GEAR SOLID](https://drive.google.com/file/d/1m3J2d9hLTlIy6dD9942bsxKC1wbui5KS/view?usp=sharing)
+- [Spider-Man](https://drive.google.com/file/d/1KChBEKZj6W7D-7ndPeDcprF9rkoPukbd/view?usp=sharing)
+- [MegaMan X4](https://drive.google.com/file/d/1eQil8GHRBeGOhbpUWlPUPZl7r8PY15DZ/view?usp=sharing)
+
+### PCSX2
+- [Grand Theft Auto: San Andreas](https://drive.google.com/file/d/1L91iiVhSYzTsClE45OnOUPqo3D_pCRz_/view?usp=sharing)
+- [Metal Gear Solid 2: Sons of Liberty](https://drive.google.com/file/d/1BGNndixgoqiIVLA5Grm5xfL3izIwxLxy/view?usp=sharing)
+- [God of War (Original Version)](https://drive.google.com/file/d/1lPZRxRVOiMhzvgAQlFpz8cv8UcaZTZDS/view?usp=sharing)
 
 # APPS
-- [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
-- [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
+- [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)(READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#7zip))
+- [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (READ: [extranotes.md](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/extranotes.md#geforce-now))
 - [Paint.net](https://drive.google.com/file/d/1_PdT3q3zeT5gBilUMdqR-BaYgpYfnNG3/view?usp=sharing)
+
+# MUSIC
+coming soon
 
 # MOVIES
 NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be a very large file. In addition, longer films such as the Spider-Man films may take a long time to load. Patience is key.
@@ -118,6 +151,9 @@ NOTE: When you click a movie, it will open a video window to watch it. You do no
 - [Spider-Man: Far From Home (2019)](https://drive.google.com/file/d/1RBAp6uJHQvUKiiesIFLnC7e--24yFHFM/view?usp=sharing)
 - [Spider-Man: No Way Home (2021)](https://drive.google.com/file/d/1CuFTuwsA12ku03jBWvkyMnb_7KY39EzT/view?usp=sharing)
 - [Elf (2003)](https://drive.google.com/file/d/1aus7IcL_iSNmvkKohgiZCjNoCmztRehu/view?usp=sharing)
+- [Star Wars: A New Hope (1977)](https://drive.google.com/file/d/1aiJD6uDyAq9fQN2prN50djHHxmjTwQOC/view?usp=sharing)
+- [Star Wars: The Empire Strikes Back (1980)](https://drive.google.com/file/d/1_JIR-XXQezSwDM3YcLq6aE-MKe9H7zMm/view)
+- [Star Wars: Return of the Jedi (1983)](https://drive.google.com/file/d/1T6NLFScQOWj4_rrz459HVW9UnYsqAO9j/view?usp=sharing)
 - [Home Alone (1990)](https://drive.google.com/file/d/1P5HxskKFDFD7a9iv0yj-QRJOSwEr_4b3/view?usp=sharing)
 - [How The Grinch Stole Christmas (1996)](https://drive.google.com/file/d/1wK225fdBQFk2cUA2jS9JFl41S3ILxCqc/view?usp=sharing)
 - [It's Christmas Time Again, Charlie Brown (1992)](https://drive.google.com/file/d/13bYb5ogy6az3kJpBcEo9ZQx_35FjmLZk/view?usp=sharing)
@@ -126,3 +162,6 @@ NOTE: When you click a movie, it will open a video window to watch it. You do no
 
 # TV SHOWS
 - [The Office (US)](https://drive.google.com/drive/folders/0B7dnuPEe600EQkkxSWlidi1CZTg?resourcekey=0-4vYsx_Vyb5_dL1s2h31nIA&usp=sharing) NOTE: For reasons unknown, the episodes are from Season 2 Episode 8 up. The rest of the episodes are there.
+- [The Mandalorian](https://drive.google.com/drive/folders/1x0Y91OiTaWePPATHADB5v4nB6rYtViRW) NOTE: Not all episodes are in the highest quality
+- [Top Gear](https://mva1997.stackstorage.com/s/TheHolyTrinity/en_US?dir=Top%20Gear&node-id=0) NOTE: This is seasons 1-22 including extras and specials. It also includes all episodes of The Grand Tour including the new Carnage A Trois episode. Big thanks to @Memer-man for the link.
+- [The Grand Tour](https://mva1997.stackstorage.com/s/TheHolyTrinity/en_US?dir=%2FThe+Grand+Tour&node-id=9221) NOTE: This is all 4 seasons of The Grand Tour. Once again, big thanks to @Memer-man for the link.
